@@ -18,7 +18,7 @@ I'm a student currently learning and exploring the world of web development, wit
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafmcccc&show_icons=true&theme=radical)
 
 ## 🎯 Current Goals
 
