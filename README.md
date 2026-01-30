@@ -56,7 +56,6 @@ I am a driven student currently immersing myself in the world of web development
 I'm always down to chat about code, collaboration, or the future of the web!
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1217443106069155841)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 
 ---
 
