@@ -66,6 +66,6 @@ Feel free to reach out if you want to collaborate on projects or just chat about
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rafmcccc&color=F85D7F&style=flat-square&label=Profile+Views)
 
-💡 *"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
+💡 *"But in this world of infinite choices, what will it take just to find that special day?" - Monika*
 
 </div>
