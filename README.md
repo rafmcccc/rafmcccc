@@ -7,3 +7,11 @@ Hi there! I'm **Rafmc**.
 - 📒 Learning && Living Life.
 
 - 📫 -.
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=rafmcccc&color=F85D7F&style=flat-square&label=Profile+Views)
+
+💡 *"But in this world of infinite choices, what will it take just to find that special day?"* — **Monika**
+
+</div>
