@@ -2,12 +2,8 @@
 
 Hi there! I'm **Rafmc**.
 
-- 🌱 Loves JavaScript, HTML, CSS && Web Development.
-
-- 🔭 Full-Stack Development, Algorithms, Data Structures && Open Source.
-
-- 📒 Learning && Living.
+- 🌱 Loves JavaScript & Linux.
+  
+- 📒 Learning && Living Life.
 
 - 📫 -.
-
-⭐️ From [rafmcccc](https://github.com/rafmcccc)
