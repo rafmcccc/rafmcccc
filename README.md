@@ -4,9 +4,13 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1217443106069155841)](https://discord.com/users/1217443106069155841)
 
+<a href="https://github.com/rafmcccc">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=CS+Student;Self-Hosting+on+Linux;Building+Discord+Bots+%26+MC+Plugins;Learning+and+Living+Life" alt="Typing SVG" />
+</a>
+
 </div>
 
-🌱 CS student, still learning, building self-hosted projects on Linux.  
+🌱 CS student, still learning, building self-hosted projects on Linux.
 🛠️ Discord bots, Minecraft plugins, and web dashboards.
 📒 Learning and living life.
 
@@ -25,6 +29,33 @@
 
 - 🤖 Discord bots (moderation, whitelist systems, AFK bots)
 - ⛏️ Minecraft plugins (anti-cheat, status)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafmcccc&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafmcccc&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=rafmcccc&theme=radical&hide_border=true" />
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=rafmcccc&theme=react-dark&hide_border=true" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rafmcccc/rafmcccc/output/github-contribution-grid-snake.svg" />
+
+</div>
 
 <div align="center">
 
