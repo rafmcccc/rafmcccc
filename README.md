@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Rafmc 👋
 
@@ -10,8 +10,8 @@
 
 </div>
 
-🌱 CS student, still learning, building self-hosted projects on Linux.
-🛠️ Discord bots, Minecraft plugins, and web dashboards.
+🌱 CS student, still learning and building self-hosted projects on Linux.  
+🛠️ Discord bots, Minecraft plugins, and web dashboards.  
 📒 Learning and living life.
 
 ## Tech Stack
@@ -28,16 +28,17 @@
 ## What I Build
 
 - 🤖 Discord bots (moderation, whitelist systems, AFK bots)
-- ⛏️ Minecraft plugins (anti-cheat, status)
+- ⛏️ Minecraft plugins (anti-cheat, server status)
+- 🌐 Web dashboards and self-hosted applications
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafmcccc&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafmcccc&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=rafmcccc&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=rafmcccc&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -45,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=rafmcccc&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafmcccc&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -53,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rafmcccc/rafmcccc/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/rafmcccc/rafmcccc/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
 
